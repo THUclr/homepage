@@ -5,7 +5,7 @@ Silicon Photonics
 ---------------------
 .. raw:: html
 
-    <IMG src="_static/siph.png" width=500>
+    <IMG src="_static/siph.jpg" width=500>
 
 **Silicon photonics** is a promising solution to provide low-cost and high-performance integrated chip-based photonic devices and systems. 
 Currently, it is commercially driven by the increasing demand for low-cost short-range optical interconnects in data centers and the computing industry.
