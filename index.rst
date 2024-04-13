@@ -6,7 +6,7 @@
 Home Page
 =====================================
 
-Under construction
+Contact me via email: \ `me@chenglr.top <mailto:me@chenglr.top>`_
 
 .. raw:: html
    
@@ -17,3 +17,4 @@ Under construction
    :maxdepth: 1
 
    Research
+   Resources
